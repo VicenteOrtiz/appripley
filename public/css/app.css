@@ -170,7 +170,7 @@ sup {
 }
 
 a {
-  color: #3490dc;
+  color: white !important;
   text-decoration: none;
   background-color: transparent;
 }
@@ -10656,7 +10656,12 @@ a.text-dark:focus {
 }
 
 .navbar-laravel {
-  background-color: #fff;
+  background-color: black;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.gabriel{
+  background-color: #70578B !important;
+  color: white !important;
 }
 

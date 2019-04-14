@@ -11,7 +11,9 @@
 
 <h3>Total: $3600</h3>
 
-<a href="/resumen" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Finalizar Compra</a>
+<center><a href="/resumen" class="btn btn-primary btn-lg active gabriel" role="button" aria-pressed="true">Finalizar Compra</a></center>
+
+
 
 
 

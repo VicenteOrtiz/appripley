@@ -89,9 +89,11 @@
                 <h1>Bienvenido</h1>
 
                 <div class="links">
-                    <a href="/escanear"><button style="color: white; background-color: #563d7c; border-color: #563d7c" type="button" class="btn btn-primary">Nueva Compra</button></a>
+                    <a href="/escanear" class="btn btn-primary btn-lg active gabriel" style="background-color: #70578B !important; color: white" role="button" aria-pressed="true">Nueva Compra</a>
                 </div>
             </div>
+
+
         </div>
     </body>
 </html>
