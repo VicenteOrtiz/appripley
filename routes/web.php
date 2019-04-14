@@ -35,3 +35,18 @@ Route::get('/infoproducto', function () {
 	return view('infoproducto');
 });
 
+Route::get('/carrito', function () {
+	return view('carrito');
+});
+
+Route::get('/resumen', function () {
+	return view('resumen');
+});
+
+Route::get('/metodopago', function () {
+	return view('metodopago');
+});
+
+Route::get('/transaccion', function () {
+	return view('transaccion');
+});
