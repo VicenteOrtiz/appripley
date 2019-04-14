@@ -2,16 +2,35 @@
 
 @section('content')
 
+<center>
 
-<title>Carrito de compra</title>
+	<h2>Carrito de compras</h2>
 
-<h3>Descripcion: Preservativos IPPF</h3>
-<h3>Precio: $3600</h3>
+	<table>
+	  <tr>
+	    <th>Producto</th>
+	    <th>Precio</th>
+	  </tr>
+	  <tr>
+	    <td>POLE DAY INX NAC</td>
+	    <td>$16.990</td>
+	  </tr>
+	</table>
 
+	<br>
+	<br>
+	<table>
+	  <tr>
+	    <th>Subtotal</th>
+	    <th>$16.990</th>
+	  </tr>
+	</table>
+	<br>
+	<br>
+	{{-- <a href="/resumen" class="btn btn-primary btn-lg active gabriel" role="button" aria-pressed="true">Finalizar Compra</a> --}}
+	<a href="/metodopago" class="btn btn-primary btn-lg active gabriel" role="button" aria-pressed="true">Pagar</a>
 
-<h3>Total: $3600</h3>
-
-<center><a href="/resumen" class="btn btn-primary btn-lg active gabriel" role="button" aria-pressed="true">Finalizar Compra</a></center>
+</center>
 
 
 

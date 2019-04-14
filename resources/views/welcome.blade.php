@@ -81,6 +81,11 @@
                 </div>
             @endif
 
+            <center>
+{{--                 <img src="http://52ea7da6.ngrok.io/img/RipleyLogoFondo.png" width="120" height="120">
+            </center> --}}
+
+
             <div class="content">
                 <div class="title m-b-md">
                     Ripley

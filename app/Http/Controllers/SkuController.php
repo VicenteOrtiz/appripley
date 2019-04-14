@@ -12,9 +12,8 @@ class SkuController extends Controller
     {
         $client = new GuzzleClient();
 
-        $response = $client->get('http://041349a6.ngrok.io/deleteAfterPay/1234');
+        $response = $client->get('http://041349a6.ngrok.io/deleteAfterPay/2000373859395');
 
-        return ('hola');
-
+        return view('finalizado');
     }
 }

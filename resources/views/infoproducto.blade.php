@@ -2,13 +2,24 @@
 
 @section('content')
 
+<center>
 
-<title>Producto</title>
+	<h2>Detalles del producto</h2>
 
-<h3>Descripcion: Preservativos IPPF</h3>
-<h3>Precio: $3600</h3>
+	<table>
+	  <tr>
+	    <th>Producto</th>
+	    <th>Precio</th>
+	  </tr>
+	  <tr>
+	    <td>POLE DAY INX NAC</td>
+	    <td>$16.990</td>
+	  </tr>
+	</table>
 
-<center><a href="/carrito" class="btn btn-primary btn-lg active gabriel" role="button" aria-pressed="true">Añadir a carrito</a></center>
+	<br>
+	<a href="/carrito" class="btn btn-primary btn-lg active gabriel" role="button" aria-pressed="true">Añadir a carrito</a>
+</center>
 
 
 
