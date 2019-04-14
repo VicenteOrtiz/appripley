@@ -7,7 +7,7 @@
 
 
 
-<a href="/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Transaccion en progreso
+<a href="/confirmacion" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Transaccion en progreso
 </a>
 
 

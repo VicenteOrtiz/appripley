@@ -50,3 +50,5 @@ Route::get('/metodopago', function () {
 Route::get('/transaccion', function () {
 	return view('transaccion');
 });
+
+Route::get('/confirmacion', 'SkuController@deleteSku');
